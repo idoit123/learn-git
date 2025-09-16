@@ -5,3 +5,4 @@ Git tracks changes of file.
 My stupid boss still prefer SVN.
 creating a branch is quickly and simple.
 add merge
+this is a stashed file
